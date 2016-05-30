@@ -45,3 +45,10 @@ _Базирано на [информация от БЦНП](http://www.bcnl.org/
     попълни булстат: **176725664** и номер на първоначално вписване в
     Централния регистър на юридическите лица, извършващи нестопанска дейност в
     обществена полза: **20150625016**.
+
+### Ресурси
+
+- http://trainings.bcnl.org/documents/trainings/104/ngo_businessactivity.pdf
+- http://www.bcnl.org/uploadfiles/documents/pravna%20ramka/qa11.pdf
+- http://www.bcnl.org/uploadfiles/documents/analyses/qa12.pdf
+- http://www.minfin.bg/bg/page/783
